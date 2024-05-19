@@ -1,0 +1,33 @@
+## Miscellaneous knowledge
+
+- Android application development
+  - Java fundamentals *
+  - Android Studio *
+  - Intent *
+  - Controls *
+  - Services *
+  - Lifecycle *
+  - I/O *
+  - Events *
+  - Fragment *
+  - Component *
+- Python
+  - Python fundamentals *
+  - pip *
+  - Jupyter notebook *
+  - Google colab *
+  - Command line *
+  - Data analysis *
+  - Image processing *
+  - Video processing *
+  - Neural network training *
+  - AI setup and usage *
+  - Tensorflow, PyTorch *
+  - matplotlib, numpy *
+  - OpenCV *
+- Java
+  - Java fundamentals *
+  - Multithreading (Thread, Semaphore, Barrier, Monitor, critical sections, Atomics) *
+  - MPI (MPJ-Express) *
+  - Apache math3 *
+  - Apache ant +
