@@ -7,7 +7,6 @@ This _knowledge assessment_ can be used as an automated tool for **tracking** an
 ## Skills
 
 - [Programming fundamentals](Skills/Programming.md)
-- [JavaScript](Skills/JavaScript.md)
 - [.NET](Skills/DotNET.md)
 - [Multi-paradigm programming](Skills/Paradigms.md)
 - [Databases](Skills/Databases.md)
