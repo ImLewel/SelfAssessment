@@ -1,22 +1,22 @@
 ## Databases
 
 - Theory and concepts
-  - Data types *
+  - Data types: 🖐️ used
   - Performance tuning
-  - Migrations +
-  - Schema versioning +
-  - Backup and recovery +
-  - Database scalability !
-  - Relational databases !
-  - Key-value store *
-  - Tuple store ~
-  - Graph databases ~
-  - Object databases *
-  - Column databases +
-  - Navigational databases ~
-  - Hierarchical databases ~
-  - In-memory databases +
-  - Inverted index +
+  - Migrations: 🎓 known
+  - Schema versioning: 🎓 known
+  - Backup and recovery: 🎓 known
+  - Database scalability: 🙋 explained
+  - Relational databases: 🙋 explained
+  - Key-value store: 🖐️ used
+  - Tuple store: 👂 heard
+  - Graph databases: 👂 heard
+  - Object databases: 🖐️ used
+  - Column databases: 🎓 known
+  - Navigational databases: 👂 heard
+  - Hierarchical databases: 👂 heard
+  - In-memory databases: 🎓 known
+  - Inverted index: 🎓 known
   - Data control language (DCL)
   - Data definition language (DDL)
   - Data manipulation language (DML)
@@ -24,11 +24,11 @@
 - Relational
   - Entity-Relationship Diagram
   - Normal forms
-  - Indexing *
-  - Primary keys *
-  - Foreign keys *
-  - Transactions *
-  - Views +
+  - Indexing: 🖐️ used
+  - Primary keys: 🖐️ used
+  - Foreign keys: 🖐️ used
+  - Transactions: 🖐️ used
+  - Views: 🎓 known
   - Subqueries
   - Stored procedures
   - SQL functions
@@ -36,34 +36,34 @@
   - Replications
   - Virtualization
 - SQL
-  - `SELECT` *
-  - `INSERT` *
-  - `UPDATE` *
-  - `DELETE` *
+  - `SELECT`: 🖐️ used
+  - `INSERT`: 🖐️ used
+  - `UPDATE`: 🖐️ used
+  - `DELETE`: 🖐️ used
   - `LIMIT`
   - `OFFSET`
-  - `ORDER BY` *
-  - `GROUP BY` *
+  - `ORDER BY`: 🖐️ used
+  - `GROUP BY`: 🖐️ used
   - `HAVING`
-  - `EXISTS` *
+  - `EXISTS`: 🖐️ used
   - `JOIN`
   - `INNER JOIN`
   - `LEFT JOIN`
   - `RIGHT JOIN`
-  - `UNION` *
-  - `DISTINCT` *
-  - `WHERE` *
+  - `UNION`: 🖐️ used
+  - `DISTINCT`: 🖐️ used
+  - `WHERE`: 🖐️ used
   - `LIKE`
   - `IN`
   - `BETWEEN`
-  - `CREATE TABLE` *
+  - `CREATE TABLE`: 🖐️ used
   - `ALTER TABLE`
-  - `DROP TABLE` *
-  - `PRIMARY KEY` *
-  - `FOREIGN KEY` *
+  - `DROP TABLE`: 🖐️ used
+  - `PRIMARY KEY`: 🖐️ used
+  - `FOREIGN KEY`: 🖐️ used
   - `CHECK`
   - `DEFAULT`
-  - `INDEX` *
+  - `INDEX`: 🖐️ used
   - `UNIQUE`
   - `GRANT`
   - `REVOKE`
@@ -72,16 +72,16 @@
 - Engines
   - PostgreSQL
   - Oracle
-  - MySQL *
+  - MySQL: 🖐️ used
   - MariaDB
-  - MS SQL Server *
+  - MS SQL Server: 🖐️ used
   - Redis
   - Rabbit
   - MongoDB
   - Memcached
   - Riak
   - DB2
-  - SQLite *
+  - SQLite: 🖐️ used
   - DynamoDB
   - Firebase
 - Data engineering
