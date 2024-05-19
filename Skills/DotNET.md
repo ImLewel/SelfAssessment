@@ -26,7 +26,7 @@
   - IIS and Kestrel web server
   - Environment variables and configuration
   - File system I/O operations: 🖐️ used
-  - Multithreading with Task Parallel Library (TPL)
+  - Multithreading with Task Parallel Library (TPL): 🖐️ used
   - Performance monitoring and diagnostics
 - APIs and Framework Features
   - LINQ: 🖐️ used
@@ -85,6 +85,7 @@
   - Generics and extension methods: 🖐️ used
   - Attributes and annotations: 🖐️ used
   - Interoperability with other .NET languages
+  - Multithreading programming (Thread, Semaphore, Monitor, Barrier): 🖐️ used
 - `F#` Development
   - `F#` syntax and language fundamentals
   - Immutable data structures
