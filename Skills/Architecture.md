@@ -1,39 +1,39 @@
 ## Architecture
 
 - Application structure
-  - Modularity
-  - Components
-  - Directories
-  - GRASP
-  - SOLID
-  - GoF patterns
-  - CQS
-  - Leaking abstractions
-  - Multiparadigm code
-  - Contract programming
-  - Platform-agnostic
-  - Transport-agnostic
-  - Framework-agnostic
-  - Code coverage
-  - Cohesion
-  - Coupling
-  - Cyclomatic complexity
-  - Reliability
-  - Quality
-  - Availability
-  - Flexibility
-  - Law of Demeter (LoD)
+  - Modularity *
+  - Components *
+  - Directories *
+  - GRASP +
+  - SOLID *
+  - GoF patterns ~
+  - CQS ~
+  - Leaking abstractions ~
+  - Multiparadigm code +
+  - Contract programming ~
+  - Platform-agnostic ~
+  - Transport-agnostic ~
+  - Framework-agnostic ~
+  - Code coverage *
+  - Cohesion +
+  - Coupling +
+  - Cyclomatic complexity ~
+  - Reliability +
+  - Quality +
+  - Availability +
+  - Flexibility +
+  - Law of Demeter (LoD) ~
 - Application architecture
   - Isolation between layer
   - Domain-specific language (DSL)
   - System vs applied code
-  - Multilayer approach
+  - Multilayer approach *
   - Hexagonal architecture
-  - Separation of concerns (SoC)
+  - Separation of concerns (SoC) *
   - Metaprogramming
-  - Inversion of control (IoC)
-  - Dependency injection (DI)
-  - Clean architecture
+  - Inversion of control (IoC) *
+  - Dependency injection (DI) *
+  - Clean architecture +
   - Domain-driven design (DDD)
   - Pub/sub
   - Message brocker
@@ -45,13 +45,13 @@
   - E-R data modeling
   - Entity-relationship diagram
   - IDEF1X
-  - UML
-  - Work breakdown structure
-  - Budget estimation
+  - UML *
+  - Work breakdown structure ~
+  - Budget estimation +
   - Distributed systems
-  - High-intensive computing
-  - Load balancing
-  - Gateways
+  - High-intensive computing +
+  - Load balancing *
+  - Gateways ~
   - On-premises
   - IaaS
   - PaaS
@@ -61,7 +61,7 @@
   - Vendor lock-in
   - Bus factor
 - Solution architecture
-  - A software requirements specification (SRS)
+  - A software requirements specification (SRS) ~
   - Solution visions
   - Solution capabilities
   - System design
@@ -80,15 +80,15 @@
   - CAP theorem
   - Single source of truth (SSOT)
 - Enterprise architecture
-  - Understanding business needs
+  - Understanding business needs ~
   - Enterprise strategy
-  - Integration with subsystems
+  - Integration with subsystems ~
   - Enterprise vision
   - Enterprise capabilities
   - Project scope
   - Enterprise service bus
   - Service-oriented architecture
-  - Microservices
+  - Microservices ~
   - Process choreography
   - Service orchestration
   - Data warehouse
