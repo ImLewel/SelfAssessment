@@ -1,22 +1,22 @@
 ## Databases
 
 - Theory and concepts
-  - Data types
+  - Data types *
   - Performance tuning
-  - Migrations
-  - Schema versioning
-  - Backup and recovery
-  - Database scalability
-  - Relational databases
-  - Key-value store
-  - Tuple store
-  - Graph databases
-  - Object databases
-  - Column databases
-  - Navigational databases
-  - Hierarchical databases
-  - In-memory databases
-  - Inverted index
+  - Migrations +
+  - Schema versioning +
+  - Backup and recovery +
+  - Database scalability !
+  - Relational databases !
+  - Key-value store *
+  - Tuple store ~
+  - Graph databases ~
+  - Object databases *
+  - Column databases +
+  - Navigational databases ~
+  - Hierarchical databases ~
+  - In-memory databases +
+  - Inverted index +
   - Data control language (DCL)
   - Data definition language (DDL)
   - Data manipulation language (DML)
@@ -24,11 +24,11 @@
 - Relational
   - Entity-Relationship Diagram
   - Normal forms
-  - Indexing
-  - Primary keys
-  - Foreign keys
-  - Transactions
-  - Views
+  - Indexing *
+  - Primary keys *
+  - Foreign keys *
+  - Transactions *
+  - Views +
   - Subqueries
   - Stored procedures
   - SQL functions
@@ -36,34 +36,34 @@
   - Replications
   - Virtualization
 - SQL
-  - `SELECT`
-  - `INSERT`
-  - `UPDATE`
-  - `DELETE`
+  - `SELECT` *
+  - `INSERT` *
+  - `UPDATE` *
+  - `DELETE` *
   - `LIMIT`
   - `OFFSET`
-  - `ORDER BY`
-  - `GROUP BY`
+  - `ORDER BY` *
+  - `GROUP BY` *
   - `HAVING`
-  - `EXISTS`
+  - `EXISTS` *
   - `JOIN`
   - `INNER JOIN`
   - `LEFT JOIN`
   - `RIGHT JOIN`
-  - `UNION`
-  - `DISTINCT`
-  - `WHERE`
+  - `UNION` *
+  - `DISTINCT` *
+  - `WHERE` *
   - `LIKE`
   - `IN`
   - `BETWEEN`
-  - `CREATE TABLE`
+  - `CREATE TABLE` *
   - `ALTER TABLE`
-  - `DROP TABLE`
-  - `PRIMARY KEY`
-  - `FOREIGN KEY`
+  - `DROP TABLE` *
+  - `PRIMARY KEY` *
+  - `FOREIGN KEY` *
   - `CHECK`
   - `DEFAULT`
-  - `INDEX`
+  - `INDEX` *
   - `UNIQUE`
   - `GRANT`
   - `REVOKE`
@@ -72,16 +72,16 @@
 - Engines
   - PostgreSQL
   - Oracle
-  - MySQL
+  - MySQL *
   - MariaDB
-  - MS SQL Server
+  - MS SQL Server *
   - Redis
   - Rabbit
   - MongoDB
   - Memcached
   - Riak
   - DB2
-  - SQLite
+  - SQLite *
   - DynamoDB
   - Firebase
 - Data engineering
