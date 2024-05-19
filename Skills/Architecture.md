@@ -1,39 +1,39 @@
 ## Architecture
 
 - Application structure
-  - Modularity
-  - Components
-  - Directories
-  - GRASP
-  - SOLID
-  - GoF patterns
-  - CQS
-  - Leaking abstractions
-  - Multiparadigm code
-  - Contract programming
-  - Platform-agnostic
-  - Transport-agnostic
-  - Framework-agnostic
-  - Code coverage
-  - Cohesion
-  - Coupling
-  - Cyclomatic complexity
-  - Reliability
-  - Quality
-  - Availability
-  - Flexibility
-  - Law of Demeter (LoD)
+  - Modularity: 🖐️ used
+  - Components: 🖐️ used
+  - Directories: 🖐️ used
+  - GRASP: 🎓 known
+  - SOLID: 🖐️ used
+  - GoF patterns: 👂 heard
+  - CQS: 👂 heard
+  - Leaking abstractions: 👂 heard
+  - Multiparadigm code: 🎓 known
+  - Contract programming: 👂 heard
+  - Platform-agnostic: 👂 heard
+  - Transport-agnostic: 👂 heard
+  - Framework-agnostic: 👂 heard
+  - Code coverage: 🖐️ used
+  - Cohesion: 🎓 known
+  - Coupling: 🎓 known
+  - Cyclomatic complexity: 👂 heard
+  - Reliability: 🎓 known
+  - Quality: 🎓 known
+  - Availability: 🎓 known
+  - Flexibility: 🎓 known
+  - Law of Demeter (LoD): 👂 heard
 - Application architecture
   - Isolation between layer
   - Domain-specific language (DSL)
   - System vs applied code
-  - Multilayer approach
+  - Multilayer approach: 🖐️ used
   - Hexagonal architecture
-  - Separation of concerns (SoC)
+  - Separation of concerns (SoC): 🖐️ used
   - Metaprogramming
-  - Inversion of control (IoC)
-  - Dependency injection (DI)
-  - Clean architecture
+  - Inversion of control (IoC): 🖐️ used
+  - Dependency injection (DI): 🖐️ used
+  - Clean architecture: 🎓 known
   - Domain-driven design (DDD)
   - Pub/sub
   - Message brocker
@@ -45,13 +45,13 @@
   - E-R data modeling
   - Entity-relationship diagram
   - IDEF1X
-  - UML
-  - Work breakdown structure
-  - Budget estimation
+  - UML: 🖐️ used
+  - Work breakdown structure: 👂 heard
+  - Budget estimation: 🎓 known
   - Distributed systems
-  - High-intensive computing
-  - Load balancing
-  - Gateways
+  - High-intensive computing: 🎓 known
+  - Load balancing: 🖐️ used
+  - Gateways: 👂 heard
   - On-premises
   - IaaS
   - PaaS
@@ -61,7 +61,7 @@
   - Vendor lock-in
   - Bus factor
 - Solution architecture
-  - A software requirements specification (SRS)
+  - A software requirements specification (SRS): 👂 heard
   - Solution visions
   - Solution capabilities
   - System design
@@ -80,15 +80,15 @@
   - CAP theorem
   - Single source of truth (SSOT)
 - Enterprise architecture
-  - Understanding business needs
+  - Understanding business needs: 👂 heard
   - Enterprise strategy
-  - Integration with subsystems
+  - Integration with subsystems: 👂 heard
   - Enterprise vision
   - Enterprise capabilities
   - Project scope
   - Enterprise service bus
   - Service-oriented architecture
-  - Microservices
+  - Microservices: 👂 heard
   - Process choreography
   - Service orchestration
   - Data warehouse
