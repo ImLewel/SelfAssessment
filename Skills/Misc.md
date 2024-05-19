@@ -1,33 +1,32 @@
 ## Miscellaneous knowledge
 
 - Android application development
-  - Java fundamentals *
-  - Android Studio *
-  - Intent *
-  - Controls *
-  - Services *
-  - Lifecycle *
-  - I/O *
-  - Events *
-  - Fragment *
-  - Component *
+  - Java fundamentals: 🖐️ used
+  - Android Studio: 🖐️ used
+  - Intent: 🖐️ used
+  - Controls: 🖐️ used
+  - Services: 🖐️ used
+  - Lifecycle: 🖐️ used
+  - I/O: 🖐️ used
+  - Events: 🖐️ used
+  - Fragment: 🖐️ used
+  - Component: 🖐️ used
 - Python
-  - Python fundamentals *
-  - pip *
-  - Jupyter notebook *
-  - Google colab *
-  - Command line *
-  - Data analysis *
-  - Image processing *
-  - Video processing *
-  - Neural network training *
-  - AI setup and usage *
-  - Tensorflow, PyTorch *
-  - matplotlib, numpy *
-  - OpenCV *
+  - Python fundamentals: 🖐️ used
+  - pip: 🖐️ used
+  - Jupyter notebook: 🖐️ used
+  - Google colab: 🖐️ used
+  - Command line: 🖐️ used
+  - Data analysis: 🖐️ used
+  - Image processing: 🖐️ used
+  - Video processing: 🖐️ used
+  - Neural network training: 🖐️ used
+  - AI setup and usage: 🖐️ used
+  - Tensorflow, PyTorch: 🖐️ used
+  - matplotlib, numpy: 🖐️ used
+  - OpenCV: 🖐️ used
 - Java
-  - Java fundamentals *
-  - Multithreading (Thread, Semaphore, Barrier, Monitor, critical sections, Atomics) *
-  - MPI (MPJ-Express) *
-  - Apache math3 *
-  - Apache ant +
+  - Multithreading (Thread, Semaphore, Barrier, Monitor, critical sections, Atomics): 🖐️ used
+  - MPI (MPJ-Express): 🖐️ used
+  - Apache math3: 🖐️ used
+  - Apache ant: 🎓 known
